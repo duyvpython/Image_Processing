@@ -16,16 +16,16 @@ height = imageLenaOrigin.size[1]
 #Average method
 for x in range(width):
     for y in range(height):
-        R,G,B = imagePIL.getpixel((x,y))
+        R, G, B = imagePIL.getpixel((x,y))
         gray = np.uint8((R+G+B)/3)
         average.putpixel((x,y),(gray,gray,gray))
 
-imageGrayAverage =np.array(average)
+imageGrayAverage = np.array(average)
 
 #Lightness method
 for x in range(width):
     for y in range(height):
-        R,G,B = imagePIL.getpixel((x,y))
+        R, G, B = imagePIL.getpixel((x,y))
         MIN = min(R,G,B)
         MAX = max(R,G,B)
         gray = np.uint8((MIN+MAX)/2)
@@ -36,7 +36,7 @@ imageGrayLightness =np.array(lightness)
 #Luminance method
 for x in range(width):
     for y in range(height):
-        R,G,B = imagePIL.getpixel((x,y))
+        R, G, B = imagePIL.getpixel((x,y))
         gray = np.uint8(0.2121*R + 0.7152*G + 0.0722*B)
         luminance.putpixel((x,y),(gray,gray,gray))
 

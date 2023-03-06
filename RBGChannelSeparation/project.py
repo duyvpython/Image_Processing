@@ -6,8 +6,7 @@ lenaImage = cv2.imread("lena.png",cv2.IMREAD_COLOR)
 imageHeight = len(lenaImage[0])
 imageWidth = len(lenaImage[1])
 
-redChannel=np.zeros((imageWidth
-,imageHeight,3),np.uint8)
+redChannel=np.zeros((imageWidth,imageHeight,3),np.uint8)
 greenChannel=np.zeros((imageWidth,imageHeight,3),np.uint8)
 blueChannel=np.zeros((imageWidth,imageHeight,3),np.uint8)
 
