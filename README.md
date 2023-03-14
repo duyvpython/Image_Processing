@@ -34,6 +34,6 @@ import matplotlib.pyplot as plt
 - [MIT](./LICENSE)
 
 ### 📭Feedback 
-If you have any feedback, please reach out to us at 'learn.python.4.fun@gmail.com'
+If you have any feedback, please reach out to us at `learn.python.4.fun@gmail.com`
 
 (ง ͡ᵔ ● ͡ᵔ)ง
