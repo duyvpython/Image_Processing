@@ -1,6 +1,6 @@
 # Image_Processing_Basic
 
-🔍 Image processing using 'Python'(https://www.python.org/)
+🔍 Image processing using `Python`(https://www.python.org/)
 
 ---
 ### 👌Requirement
@@ -8,7 +8,7 @@
 [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/Visual_Studio_Code_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://code.visualstudio.com/) [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://platformio.org/) 
 
 ##### ⌨️ Programming language
-[<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/python_104451.png" height ="40" width="40px" alt="Python"/>](https://platformio.org/) 'Version 3.10.9'
+[<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/python_104451.png" height ="40" width="40px" alt="Python"/>](https://platformio.org/) `Version 3.10.9`
 
 ##### 📚Library
 
