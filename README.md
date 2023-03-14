@@ -5,7 +5,7 @@
 ---
 ### 👌Requirement
 #### 💾Software
-[<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/Visual_Studio_Code_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://code.visualstudio.com/) [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://platformio.org/) 
+[<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/Visual_Studio_Code_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://code.visualstudio.com/) [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/Conda_logo_icon.png" height ="40" width="40px" alt="Conda"/>](https://docs.conda.io/en/latest/) 
 
 ##### ⌨️ Programming language
 [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/python_104451.png" height ="40" width="40px" alt="Python"/>](https://www.python.org/) `Version 3.10.9`
